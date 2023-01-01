@@ -1,0 +1,12 @@
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\bin\Debug\net6.0\MongoDBExample.Dto.deps.json
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\bin\Debug\net6.0\MongoDBExample.Dto.dll
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\bin\Debug\net6.0\MongoDBExample.Dto.pdb
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\obj\Debug\net6.0\MongoDBExample.Dto.csproj.AssemblyReference.cache
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\obj\Debug\net6.0\MongoDBExample.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\obj\Debug\net6.0\MongoDBExample.Dto.AssemblyInfoInputs.cache
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\obj\Debug\net6.0\MongoDBExample.Dto.AssemblyInfo.cs
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\obj\Debug\net6.0\MongoDBExample.Dto.csproj.CoreCompileInputs.cache
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\obj\Debug\net6.0\MongoDBExample.Dto.dll
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\obj\Debug\net6.0\refint\MongoDBExample.Dto.dll
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\obj\Debug\net6.0\MongoDBExample.Dto.pdb
+C:\Users\javie\clases\MongoDBExample\MongoDBExample.Dto\obj\Debug\net6.0\ref\MongoDBExample.Dto.dll
